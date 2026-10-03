@@ -1,0 +1,2 @@
+# Ingestao no Limite - Dependencias de solucao
+psycopg2-binary>=2.9.9
